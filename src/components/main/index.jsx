@@ -1,6 +1,6 @@
 import React from 'react'
-import Categories from './categories'
-import { Cards } from './cards'
+import Categories from '../main/categories'
+import { Cards } from '../main/cards'
 
 
 const Main = () => {
